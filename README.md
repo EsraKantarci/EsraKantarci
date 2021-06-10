@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/-Java-lightgrey?style=plastic"/>
 <img src="https://img.shields.io/badge/-Dart-lightgrey?style=plastic"/>
 <img src="https://img.shields.io/badge/-Python-lightgrey?style=plastic"/>
+    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsraKantarci&langs_count_private=true&theme=radical&card_width=445)<br><br>
 
 
