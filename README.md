@@ -11,13 +11,11 @@
 
 <div>
 <strong>About Me:</strong><br>
-💻 I’m currently living in Antalya and working on my Senior Design Project.<br>
-📚 I’m a final year Computer Science Engineering undergraduate student in University of Akdeniz<br>
+💻 I am currently enrolled to Akdeniz University Computer Science Engineering Masters Degree Program. <br>
+📚 I work on a job I am really proud of, yay! But do not have time to actively commit to Github :( <br>
 📈 I got experience in Technical Support, Statistics, Data Analysis, Data Visualization, and Mobile Programming<br>
-🏆 My certifications: 
-<ul>
-  <li>---This part will get updated---</li>
-</ul>
+🏆 I love to talk and design!  
+    
 📫 Reach me at <a href="mailto:av.esrakantarci@gmail.com">av.esrakantarci@gmail.com</a><br>
 ⚡ Find me on <a href="https://tr.linkedin.com/in/esra-kantarc%C4%B1-%C3%A7ay%C4%B1r-b1948454">Linkedin</a><br><br><br>
 
@@ -35,7 +33,7 @@
 
 ------
 Credit: [EsraKantarci](https://github.com/EsraKantarci)
-Last Edited on: 11/6/2021
+Last Edited on: 30/10/2022
 
 <!--
 **EsraKantarci/EsraKantarci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
